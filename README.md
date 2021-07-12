@@ -35,7 +35,7 @@ It basically starts with a login page, where we are supposed to login using emai
 
 ![](images/teams4.png)
 
-## Tech Stack 💻
+## Tech Stack
 
 - [React.js](https://reactjs.org/)
 - [Netlify + Heroku (Hosting)](https://www.netlify.com/)
@@ -45,6 +45,7 @@ It basically starts with a login page, where we are supposed to login using emai
 - Ejs
 - JS
 - CSS
+- webrtc
 
 ## Available Scripts
 
