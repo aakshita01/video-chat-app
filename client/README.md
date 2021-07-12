@@ -18,15 +18,22 @@ It basically starts with a login page, where we are supposed to login using emai
 
 ### Home Page
 
-![enter image description here]()
+![enter image description here](images/teams5.png)
+![enter image description here](images/teams6.png)
+![enter image description here](images/teams7.png)
+
+### video call
+
+![enter image description here](images/teams1.png)
+![enter image description here](images/teams2.png)
 
 ### Incoming Call
 
-![enter image description here]()
+![enter image description here](images/teams3.png)
 
 ### In Call
 
-![enter image description here]()
+![enter image description here](images/teams5.png)
 
 ## Tech Stack 💻
 
