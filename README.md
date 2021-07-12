@@ -18,15 +18,22 @@ It basically starts with a login page, where we are supposed to login using emai
 
 ### Home Page
 
-![enter image description here]()
+![](images/teams5.png)
+![](images/teams6.png)
+![](images/teams7.png)
+
+### video call
+
+![](images/teams1.png)
+![](images/teams2.png)
 
 ### Incoming Call
 
-![enter image description here]()
+![](images/teams3.png)
 
 ### In Call
 
-![enter image description here]()
+![](images/teams4.png)
 
 ## Tech Stack 💻
 
@@ -35,6 +42,9 @@ It basically starts with a login page, where we are supposed to login using emai
 - [Socket.io](https://socket.io/)
 - [Node.js](https://nodejs.org/en/)
 - [Auth0](https://auth0.com/)
+- Ejs
+- JS
+- CSS
 
 ## Available Scripts
 
